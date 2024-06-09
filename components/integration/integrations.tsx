@@ -11,13 +11,13 @@ const Integrations = () => {
                         <div className="lg:w-2/4 pr-4 pl-4 md:w-full pr-4 pl-4 sm:w-full pr-4 pl-4">
                             <div className="section-title wow fadeInUp animated" data-animation="fadeInLeft" data-delay=".4s">               
                                     <h5><span>integrations</span></h5>
-                                    <h2 className='text-6xl'>Embed your videos <span className='font-bold	'>into your favorite tools fix</span></h2>                                     
+                                    <h2 className='text-6xl'>Take a deep dive <span className='font-bold gradient'>into your favorite tools</span></h2>                                     
                                 </div>       
                         </div>
                         <div className="lg:w-2/4 pr-4 pl-4 md:w-full pr-4 pl-4 sm:w-full pr-4 pl-4">
-                            <div className="section-title "> <p className='text-2xl'>Streamline your video creation process by embedding your videos into your authoring tool, LMS, LXP, and more.</p></div>
+                            <div className="section-title "> <p className='text-2xl'>In order to streamline your success, we use a variety of tools both familiar and accessible to the user.</p></div>
                             <div className="slider-btn mt-30">                                          
-                                 <a href="contact.html" className="inline-block align-middle text-center select-none border font-normal whitespace-no-wrap mt-5 rounded py-4 px-4 leading-normal no-underline bg-purple-600 text-white font-bold"><i className="fa-regular fa-angle-right"></i> Explor all integrations</a>
+                                 <a href="contact.html" className="inline-block align-middle text-center select-none border font-normal whitespace-no-wrap mt-5 rounded py-4 px-4 leading-normal no-underline bg-purple-600 text-white font-bold"><i className="fa-regular fa-angle-right"></i> Explore all integrations</a>
                             </div>
                         </div>
                     </div>

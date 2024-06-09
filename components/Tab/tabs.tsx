@@ -22,8 +22,8 @@ const Tabs = ({ tabs }) => {
       
       <div className=" ml-8 w-6/12">
         <div className="text-2xl">
-          <h2 className="text-6xl font-extrabold p-8">Collaborate <span className="gradient1">with everyone.</span></h2>
-          <p className='px-8 py-2 '>Create custom landing pages with Rareblocks that converts more visitors than any website. With lots of unique blocks, you can easily build a page.</p>
+          <h2 className="text-6xl font-extrabold p-8">Explore and review <span className="gradient">our catalogue</span></h2>
+          <p className='px-8 py-2 '>UGforUG's innovative approach to university applications promises to level the playing field for Ugandan students</p>
         </div>
       </div>
       
@@ -46,7 +46,7 @@ const Tabs = ({ tabs }) => {
           </button>
         ))}
       </div>
-      <div className="mt-4 md:mt-0 p-5 text-xl bg-slate-100">
+      <div className="mt-4 md:mt-0 p-5 text-xl bg-slate-100 rounded-l">
         {tabs[activeTab].content}
 
         <div className='flex flex-row'>

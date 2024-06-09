@@ -22,6 +22,7 @@ import Tabs from "@/components/Tab/tabs";
 import Steps from "@/components/steps/steps";
 import Features1 from "@/components/features/features1";
 import Steps2 from "@/components/steps/steps2";
+import Facts from "@/components/features/features2";
 
 
 export default function Home() {
@@ -48,34 +49,35 @@ export default function Home() {
   return (
    
        <div>
-<HeroStarter/>
-        {/* <Hero/> */}
+
+
+        <HeroStarter/>
         <Logogrid/>
-        {/* <Header/> */}
         <Info/>
         <Info2/>
-        {/* <Howitworks/> */}
-        {/* <Features/> */}
-        {/* <Integrations/> */}
-        <HeroX/>
-        {/* <HTemplate/> */}
-        <Banner/>
-        {/* <CardsGroup/> */}
-        <Integrations/>
-        {/* <InfoTabs/> */}
+        <Facts/>
         <Tabs tabs={tabs}/>
-        <Steps/>
-
-        <Steps2/>
-
+        <HeroX/>
         <Features1/>
-        {/* <HeroSection/> */}
-
-        {/* <FooterBlock/> */}
+        <Integrations/>
+        <Steps2/>
         <Banner1/>
-
         <Footer2/>
 
+
+
+        {/* <Hero/> */}
+        {/* <HeroSection/> */}
+        {/* <Header/> */}
+        {/* <Features/> */}
+        {/* <Howitworks/> */}
+        {/* <Integrations/> */}
+        {/* <HTemplate/> */}
+        {/* <Banner/> */}
+        {/* <CardsGroup/> */}
+        {/* <InfoTabs/> */}
+        {/* <Steps/> */}
+        {/* <FooterBlock/> */}
         
         
 

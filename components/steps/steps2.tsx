@@ -8,7 +8,7 @@ const Steps2 = () => {
             <div className="lg:w-1/2 pr-4 pl-4 md:w-full pr-4 pl-4 sm:w-full pr-4 pl-4">
                 <div className="section-title mb-10 text-center wow fadeInUp animated" data-animation="fadeInLeft" data-delay=".4s">               
                         <h5 className='text-xl p-3'><span>how it works</span></h5>
-                        <h2 className='text-6xl'>It’ll find and <span>fix anything that hurts</span></h2>                                     
+                        <h2 className='text-6xl'>Getting started <span className='gradient'>never gets any easier.</span></h2>                                     
                     </div>       
             </div>
         </div>
@@ -16,36 +16,36 @@ const Steps2 = () => {
             <div className="lg:w-1/3 pr-4 pl-4 md:w-full pr-4 pl-4 sm:w-full pr-4 pl-4">
                <div className="step-box text-center mb-55 wow fadeInUp animated" data-animation="fadeInLeft" data-delay=".4s">    
                      <div className="text">
-                         <h4>Connect</h4>
-                        <h3><a href="about.html">Your Account</a></h3>                                            
+                         <h4>Discover</h4>
+                        <h3><a href="about.html">Explore Resources</a></h3>                                            
                     </div>  
                    <div className="noum"> 1 </div>  
                     <div className="img">
-                       <p>Streamline your video creation process by embedding your videos into your authoring tool.</p>
+                       <p>Browse through our collection of informative articles, guides, and videos to learn more about the opportunities available and how UGforUG can assist you</p>
                     </div>
                 </div>
             </div>
              <div className="lg:w-1/3 pr-4 pl-4 md:w-full pr-4 pl-4 sm:w-full pr-4 pl-4">
                 <div className="step-box text-center mb-30 wow fadeInUp animated" data-animation="fadeInLeft" data-delay=".4s">  
                      <div className="text">
-                          <h4>Track</h4>
-                         <h3><a href="about.html">Savings Data</a></h3>                                              
+                          <h4>Consultation</h4>
+                         <h3><a href="about.html">Schedule a Consultation</a></h3>                                              
                     </div>
                    <div className="noum"> 2 </div>   
                      <div className="img">
-                       <p>Streamline your video creation process by embedding your videos into your authoring tool.</p>
+                       <p>Reach out to us to schedule a personalized consultation session with one of our experienced counselors.</p>
                     </div>
                 </div>
             </div>
           <div className="lg:w-1/3 pr-4 pl-4 md:w-full pr-4 pl-4 sm:w-full pr-4 pl-4">
                <div className="step-box text-center mb-30 wow fadeInUp animated" data-animation="fadeInLeft" data-delay=".4s">    
                    <div className="text">
-                        <h4>Start</h4>
-                        <h3><a href="about.html">Grow Today</a></h3>                                                               
+                        <h4>You're in</h4>
+                        <h3><a href="about.html">Engage and Empower</a></h3>                                                               
                     </div>
                    <div className="noum"> 3 </div> 
                      <div className="img">
-                       <p>Streamline your video creation process by embedding your videos into your authoring tool.</p>
+                       <p>After the consultation, take advantage of UGforUG's range of services, including application assistance, mentorship programs, and preparatory courses.</p>
                     </div>
                 </div>
             </div>
