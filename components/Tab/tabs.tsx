@@ -2,11 +2,21 @@
 "use client"
 // components/Tabs.js
 import { useState } from 'react';
+interface Tab {
+  title: string;
+  content: string;
+  fields: string[];
+}
+
+interface TabsProps {
+  tabs: Tab[];
+}
 
 
 
 
-const Tabs = ({ tabs }) => {
+
+const Tabs: React.FC<TabsProps> = ({ tabs }: TabsProps) => {
   
   const [activeTab, setActiveTab] = useState(0);
 
