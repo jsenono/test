@@ -10,7 +10,7 @@ const Footer2 = () => {
                         <div className="xl:w-1/5 lg:w-1/5  sm:w-1/2 pr-4 pl-4">
                              <div className="footer-widget mb-30">
                                 <div className="f-widget-title">
-                                   <h2> <img src="images/logo/logo.png" alt="img"/></h2>
+                                   <h2> <img src="images/logo/2.png"  alt="img"  className='w-auto'/></h2>
                                 </div>                             
                              </div>
                           </div>  
@@ -104,7 +104,7 @@ const Footer2 = () => {
                             </div>
                         <div className="lg:w-1/2 pr-4 pl-4 md:w-full pr-4 pl-4 text-right xl:text-right">
                            <div className="copy-text">
-                                 @2024 Epizik. Design & development right reserved.
+                                 @2024 UgforUg Technologies.
                             </div>
                         </div>
                     </div>
