@@ -3,15 +3,27 @@
 import React from 'react'
 import { useState } from 'react';
 
-const Features1 = () => {
+interface AccordionItem {
+  title: string;
+  content: string;
+}
+
+
+
+
+const Features1: React.FC = ()=> {
+
+  
+
+
 
     const [openIndex, setOpenIndex] = useState(0);
 
-  const toggleAccordion = (index) => {
+  const toggleAccordion = (index:number) => {
     setOpenIndex((prevIndex) => (prevIndex === index ? -1 : index));
   };
 
-  const accordionItems = [
+  const accordionItems:AccordionItem[] = [
     { 
       title: 'Expert Guidance', 
       content: 'Our team of experienced counselors provides expert guidance throughout the university application process, ensuring you make informed decisions and present your best self to prospective universities.'
