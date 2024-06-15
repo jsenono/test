@@ -63,9 +63,9 @@ const HeroStarter = () => {
         </div>
 
         <div class="xl:col-span-3 relative">
-            <img src="images/heroMAIN/2.webp" alt="" className='absolute top-85 left-10 right-0 shadow-md  border-0 rounded-lg'/>
-            <img src="images/heroMAIN/3.webp" alt="" className='absolute top-80 left-50 right-0 shadow-md  border-0 rounded-lg' />
-        <img src="images/heroMAIN/1.png" alt="heroMAIN/1.png" className='w-2/3 align-right justify-center m-auto' />
+            <img src="images/starterpics/2.webp" alt="" className='absolute top-85 left-10 right-0 shadow-md  border-0 rounded-lg'/>
+            <img src="images/starterpics/3.webp" alt="" className='absolute top-80 left-50 right-0 shadow-md  border-0 rounded-lg' />
+        <img src="images/starterpics/1.png" alt="heroMAIN/1.png" className='w-2/3 align-right justify-center m-auto' />
         {/* <img src="images/heroMAIN/4.webp" alt="" className='absolute top-80 left-10 right-0 shadow-md  border-0 rounded-lg'/> */}
             {/* <img class="w-full mx-auto scale-110" src="https://d33wubrfki0l68.cloudfront.net/29c501c64b21014b3f2e225abe02fe31fd8f3a5c/f866d/images/hero/3/illustration.png" alt="" /> */}
         </div>
